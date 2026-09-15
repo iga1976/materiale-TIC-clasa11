@@ -35,26 +35,26 @@ Pentru întrebări sau materiale noi:
 
 ## Structura folderelor (optimizată pentru fișiere Office)
 
-materiale-TIC-clasa11/
-│
-├── Word/
-│     ├── Invitatii/
-│     ├── Fise-de-lucru/
-│     └── Modele-documente/
-│
-├── Excel/
-│     ├── Tabele/
-│     ├── Exercitii/
-│     └── Baze-de-date-simple/
-│
-├── PowerPoint/
-│     ├── Prezentari-curs/
-│     └── Prezentari-elevi/
-│
-├── Access/
-│     ├── Baze-de-date/
-│     └── Exemple-proiecte/
-│
-└── README.md
+materiale-TIC-clasa11/  
+│  
+├── Word/  
+│     ├── Invitatii/  
+│     ├── Fise-de-lucru/  
+│     └── Modele-documente/  
+│  
+├── Excel/  
+│     ├── Tabele/  
+│     ├── Exercitii/  
+│     └── Baze-de-date-simple/  
+│  
+├── PowerPoint/  
+│     ├── Prezentari-curs/  
+│     └── Prezentari-elevi/  
+│  
+├── Access/  
+│     ├── Baze-de-date/  
+│     └── Exemple-proiecte/  
+│  
+└── README.md  
 
 
